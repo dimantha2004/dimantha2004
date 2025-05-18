@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Mos-burger Backend](https://github.com/dimantha2004/Mos_Burger_Shop_Backend_by_Springboot)
 
-- 🌱 I’m currently learning Springboot **@ICET**
+- 🌱 I’m currently learning Springboot,React,angular and node.js **@ICET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dimantha2004?tab=repositories](https://github.com/dimantha2004?tab=repositories)
 
