@@ -128,10 +128,22 @@ A modern, responsive portfolio website showcasing my projects, skills, and profe
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimantha2004&theme=tokyo-night" alt="Contribution Graph" />
+</div>
+
+### 🐍 Watch my contributions get eaten by the snake!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dimantha2004/dimantha2004/output/snake.svg" alt="Snake animation" />
+</div>
+
+### 📅 Daily Commit Heatmap
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/2196F3/dimantha2004" alt="GitHub Chart" />
 </div>
 
 ---
