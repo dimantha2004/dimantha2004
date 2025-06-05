@@ -137,7 +137,16 @@ A modern, responsive portfolio website showcasing my projects, skills, and profe
 ### 🐍 Watch my contributions get eaten by the snake!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dimantha2004/dimantha2004/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimantha2004/dimantha2004/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dimantha2004/dimantha2004/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dimantha2004/dimantha2004/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Alternative snake that works immediately -->
+<div align="center">
+  <img src="https://github.com/dimantha2004/dimantha2004/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </div>
 
 ### 📅 Daily Commit Heatmap
