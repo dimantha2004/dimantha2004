@@ -30,7 +30,7 @@
 ```typescript
 const dimantha = {
     name: "Dimantha Theekshana",
-    role: "Full Stack Developer @Syigen",
+    role: "Trainee Software Engineer @Syigen",
     education: "ICET Student",
     location: "Sri Lanka 🇱🇰",
     
