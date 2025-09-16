@@ -16,31 +16,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```javascript
-const dimantha = {
-    role: "Trainee Software Engineer",
-    company: "Syigen",
-    education: "ICET Student",
-    location: "Sri Lanka 🇱🇰",
-    
-    passions: [
-        "Full Stack Development",
-        "System Architecture", 
-        "Cloud Technologies",
-        "Open Source Contribution"
-    ],
-    
-    currentlyLearning: [
-        "Advanced Spring Boot",
-        "AWS Cloud Services",
-        "Microservices Architecture",
-        "DevOps Practices"
-    ],
-    
-    motto: "Code with purpose, build with passion! ✨"
-};
-```
-
 - 🔭 Currently working on **Mos Burger Management System** using Spring Boot
 - 🌱 Learning **Cloud Architecture** and **DevOps**  
 - 👯 Looking to collaborate on **Open Source Projects**
