@@ -19,7 +19,7 @@
 ```typescript
 const dimantha = {
     location: "Negombo, Sri Lanka 🇱🇰",
-    role: "Trainee Software Engineer @ Syigen",
+    role: "Intern Software Engineer @Navitsa",
     education: "ICET Student",
     currentFocus: ["Spring Boot Microservices", "Cloud Architecture", "DevOps"],
     passions: ["Clean Code", "3D Modeling", "AI/ML Innovation"],
