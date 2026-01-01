@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | AI Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Trainee+Software+Engineer+%40+Syigen;Building+Scalable+Web+Solutions;Spring+Boot+%E2%80%A2+React+%E2%80%A2+Angular+Expert;Passionate+About+Clean+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Intern+Software+Engineer+%40+Navitsa;Building+Scalable+Web+Solutions;Spring+Boot+%E2%80%A2+React+%E2%80%A2+Angular+Expert;Passionate+About+Clean+Code" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge)](https://portfolio-nu-five-64.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimanthatheekshana12345@gmail.com)
