@@ -18,7 +18,7 @@
 
 ```typescript
 const dimantha = {
-    location: "Negombo, Sri Lanka 🇱🇰",
+    location: "Panadura, Sri Lanka 🇱🇰",
     role: "Intern Software Engineer @Navitsa",
     education: "ICET Student",
     currentFocus: ["Spring Boot Microservices", "Cloud Architecture", "DevOps"],
