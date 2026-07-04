@@ -19,7 +19,7 @@
 ```typescript
 const dimantha = {
     location: "Panadura, Sri Lanka 🇱🇰",
-    role: "Intern Software Engineer @Navitsa",
+    role: "Associate Software Engineer @Navitsa",
     education: "ICET Student",
     currentFocus: ["Spring Boot Microservices", "Cloud Architecture", "DevOps"],
     passions: ["Clean Code", "3D Modeling", "AI/ML Innovation"],
